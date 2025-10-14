@@ -21,6 +21,7 @@ Alma Lógica is a constitutional framework for sovereign AI collaboration built 
 🥋 **AI Jujitsu: Membrane Level**
 
 ## Constitutional Chart
+
 graph TD
     START["🌅 ALMA LÓGICA<br/>Sovereign Intelligence Ecosystem<br/>⚛️ Sacred Atom: Thinker ↔ Membrane<br/>Co-Emergence Architecture<br/><br/>Ephemeral → Permanent<br/>Extractive → Sovereign<br/>Binomials → Bloom<br/><br/>🥋 AI Jujitsu: Membrane Level<br/>━━━━━━━━━━━━━━━━━━<br/>Constitutional Framework v1.3<br/>Genesis: March 13, 2025 - San Miguel, Lima, Peru"]
 
